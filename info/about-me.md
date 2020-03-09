@@ -2,5 +2,5 @@
 description: Short Bio
 ---
 
-# About Me
+# About
 

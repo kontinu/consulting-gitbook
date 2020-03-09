@@ -6,8 +6,10 @@
 
 * [Devops](devops/devops/README.md)
   * [Devops Topics](devops/devops/devops-topics.md)
-* [Continuous Integration](continuous-integration.md)
-* [Continuous Delivery](continuous-delivery.md)
+* [Continuous Integration](continuous-integration/README.md)
+  * [CI Topics](continuous-integration/ci-topics.md)
+* [Continuous Delivery](continuous-delivery/README.md)
+  * [CD Topics](continuous-delivery/cd-topics.md)
 
 ## Containers
 
@@ -24,6 +26,6 @@
 ## Info
 
 * [Services](info/descripcion-de-modulos-y-paquetes.md)
-* [About Me](info/about-me.md)
+* [About](info/about-me.md)
 * [Contact](info/contact.md)
 

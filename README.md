@@ -7,8 +7,8 @@ La siguiente documentacion  recopila las propuestas para las ramas y especializa
 {% tabs %}
 {% tab title="Devops" %}
 * [Devops](devops/devops/)
-* [Continuous Delivery](continuous-delivery.md)
-* [Continuous Integration](continuous-integration.md)
+* [Continuous Delivery](continuous-delivery/)
+* [Continuous Integration](continuous-integration/)
 {% endtab %}
 
 {% tab title="Containers" %}
