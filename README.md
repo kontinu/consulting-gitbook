@@ -22,10 +22,8 @@ La siguiente documentacion  recopila las propuestas para las ramas y especializa
 {% endtab %}
 {% endtabs %}
 
-
-
 {% hint style="warning" %}
-Se trabaja de manera modular para permitir que el cliente decida que formato y que modulos desea incluir, la forma de agregar modulos y crear paquetes se detalla [aqui](info/descripcion-de-modulos-y-paquetes.md).
+Se trabaja de manera modular para permitir que el cliente decida que formato y que modulos desea incluir,  los servicios se detallan [aqui](info/descripcion-de-modulos-y-paquetes.md).
 {% endhint %}
 
 
