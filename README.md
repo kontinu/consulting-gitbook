@@ -1,13 +1,11 @@
 # Consultoria
 
-En esta coleccion de paginas encontrara las propuestas para las ramas en las cuales ofrecemos  servicios de consultoria, estas ramas son:
+La siguiente documentacion  recopila las propuestas para las ramas y especializaciones  en las cuales ofrecemos servicios de consultoria, estas ramas son:
 
 
 
 {% tabs %}
 {% tab title="Devops" %}
-### 
-
 * [Devops](devops/devops/)
 * [Continuous Delivery](continuous-delivery.md)
 * [Continuous Integration](continuous-integration.md)
@@ -26,9 +24,7 @@ En esta coleccion de paginas encontrara las propuestas para las ramas en las cua
 
 
 
-
-
-{% hint style="info" %}
+{% hint style="warning" %}
 Se trabaja de manera modular para permitir que el cliente decida que formato y que modulos desea incluir, la forma de agregar modulos y crear paquetes se detalla [aqui](info/descripcion-de-modulos-y-paquetes.md).
 {% endhint %}
 

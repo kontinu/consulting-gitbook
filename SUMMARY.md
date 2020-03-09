@@ -23,6 +23,7 @@
 
 ## Info
 
-* [Descripción de Modulos y Paquetes](info/descripcion-de-modulos-y-paquetes.md)
+* [Services](info/descripcion-de-modulos-y-paquetes.md)
 * [About Me](info/about-me.md)
+* [Contact](info/contact.md)
 
