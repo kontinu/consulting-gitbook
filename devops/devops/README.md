@@ -14,7 +14,9 @@ Seguramente hemos visto la imagen que aparece en el encabezado de esta sección,
 
 ##  CI/CD & Devops
 
-![CI/CD Pipeline](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
+
+
 
 
 
