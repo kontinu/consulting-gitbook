@@ -1,12 +1,13 @@
 ---
-description: Short Bio
+description: >-
+  Actualmente Devops Lead en una empresa distribuida , me especializo en dirigir
+  las deciciones que i
 ---
 
 # About
 
 * Lider de la comunidad Docker Guatemala.
-* Actualmente Devops Lead, me encargo 
-* Primer programa a los 12 â. 
+* * Primer programa a los 12 â. 
 * Sys admin a los 2011 
 * Release engineering manager 
 * Platform Engineer
@@ -38,19 +39,19 @@ description: Short Bio
       <td style="text-align:center">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image.png" alt/>
+          <img src="../.gitbook/assets/image (1).png" alt/>
         </p>
       </td>
       <td style="text-align:center">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (2).png" alt/>
+          <img src="../.gitbook/assets/image (4).png" alt/>
         </p>
       </td>
       <td style="text-align:center">
         <p></p>
         <p>
-          <img src="../.gitbook/assets/image (6).png" alt/>
+          <img src="../.gitbook/assets/image (3).png" alt/>
         </p>
       </td>
     </tr>
