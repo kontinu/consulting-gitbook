@@ -5,22 +5,32 @@ description: Short Bio
 # About
 
 * Lider de la comunidad Docker Guatemala.
-* First functional program at 12 yo. 
-* Started as a sys admin back in 2011 
+* Actualmente Devops Lead, me encargo 
+* Primer programa a los 12 â. 
+* Sys admin a los 2011 
 * Release engineering manager 
 * Platform Engineer
 * Scrum Master
-* Sys admin who loves coding &lt;/&gt;
 * Lucky to contribute in some open source projects.
 * Love/Need coffee.
+* Sys admin que le encanta programar `</>`
 * DCA \(Docker Certified Associate\)
+
+
+
+
+
+
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
-      <th style="text-align:center"></th>
+      <th style="text-align:center"><a href="https://www.linkedin.com/in/marcos-cano-804a1787/">Linkedin</a>
+      </th>
+      <th style="text-align:center"><a href="https://github.com/jmarcos-cano">Github</a>
+      </th>
+      <th style="text-align:center"><a href="https://twitter.com/Marcos_Kno">Twitter</a>
+      </th>
     </tr>
   </thead>
   <tbody>
