@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Consultoria](README.md)
+* [Consulting](README.md)
 
 ## Devops
 

@@ -1,4 +1,4 @@
-# Consultoria
+# Consulting
 
 La siguiente documentacion  recopila las propuestas para las ramas y especializaciones  en las cuales ofrecemos servicios de consultoria, estas ramas son:
 
