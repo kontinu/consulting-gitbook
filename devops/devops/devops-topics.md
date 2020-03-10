@@ -9,8 +9,10 @@ Los tópicos que se incluyen en este modulo son
 3. Continuous Integration
 4. Continuous Delivery and Deployment
 5. Release Management
-6. Monitoring
-7. Infrastructure automation.
+6. Deployment Strategies
+7. Monitoring
+8. Infrastructure automation.
+9. Others
 {% endtab %}
 
 {% tab title="Soft Skills 💡" %}
