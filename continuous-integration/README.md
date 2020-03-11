@@ -14,6 +14,8 @@ CI consiste en que por cada cambio que su equipo de desarrollo **integre** al si
 
 ## Why CI?
 
+![](../.gitbook/assets/proactive.png)
+
 
 
 
