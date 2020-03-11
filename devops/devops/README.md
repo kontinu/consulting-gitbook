@@ -7,13 +7,6 @@ description: >-
 
 # Devops
 
-{% hint style="info" %}
-💡Creemos el siguiente caso hipotetico:  
-
-
-Usted es encargado de una pagina web donde se publican articulos donde millones de usuarios lo visitan al dia.  
-{% endhint %}
-
 ## Introducción
 
 ![Fases en Devops](../../.gitbook/assets/download-2.png)
@@ -24,7 +17,21 @@ Devops es un término que hoy en día se ha mal utilizado o por una falta de exp
 
 Seguramente hemos visto la imagen que aparece en el encabezado de esta sección, pero realmente el proceso de Devops va mucho más allá que cumplir con un listado de elementos, es un cambio cultural, es una colaboración multidisciplinaria y un set de buenas prácticas y recomendaciones.
 
+{% hint style="info" %}
+_"En su esencia DevOps es una cultura, un movimiento, una filosofia." - Atlasian_
+{% endhint %}
 
+"
+
+## Hypothetic Case
+
+![Web Page con typo](../../.gitbook/assets/screen-shot-2020-03-10-at-7.32.09-pm.png)
+
+### 💡Creemos el siguiente caso hipotetico:
+
+Usted es encargado de una pagina web donde se publican articulos, millones de usuarios lo visitan al dia. Reportan que en la pagina de inicio hay un error de escritura \(como el de la imagen de arriba\)
+
+**¿ Cuánto tiempo le tomaria a su equipo, con los procesos actuales, arreglar este error ?**
 
 ##  CI/CD & Devops
 
@@ -35,7 +42,7 @@ Esta imagen muestra como se integran la fase de metodologias agiles juntamente c
 {% hint style="warning" %}
 * Devops no es solamente aplicar alguna metodologia tecnica nuestro trabajo actual
 * Devops tampoco es crear un nuevo departamento en nuestra organizacion
-* D
+* Devops no es unicamente contratar a personas que se dediquen a esto.
 {% endhint %}
 
 
@@ -55,7 +62,7 @@ Algunos de los beneficios incluyen \(pero no esta limitados a\):
 * incremento en el TTM \([time to market](https://en.wikipedia.org/wiki/Time_to_market)\) 
 * Equipos con mejores habilidades para responder en incidentes
 * Mejor manejo de trabajo no planificado
-* 
+
 {% hint style="info" %}
 Al final de todo, el desarrollo de software es un arte, es manufactura, por lo tanto podriamos hacer la analogia que **devops es todo el proceso automatizado de la linea de produccion.**
 {% endhint %}
