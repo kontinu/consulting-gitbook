@@ -12,7 +12,8 @@
   * [CI - Hypothetic Case](continuous-integration/ci-hypothetic-case.md)
   * [CI Syllabus](continuous-integration/ci-topics.md)
 * [Continuous Delivery](continuous-delivery/README.md)
-  * [CD Topics](continuous-delivery/cd-topics.md)
+  * [CD - Hypothetic Case](continuous-delivery/cd-hypothetic-case.md)
+  * [CD Syllabus](continuous-delivery/cd-topics.md)
 
 ## Containers
 

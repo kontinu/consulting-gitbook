@@ -38,7 +38,13 @@ El desarrollador integra su nuevo cambio `[Mie 4:25 pm]` creyendo que este soluc
 10. **. . .**  esto se contara en otra seccion 
 11. `[Lun 9:00 am]` se percatan que el cambio que se introdujo tenia problemas y que no corrigio el problema por completo por lo tanto se repite exactamente el mismo proceso.
 
-Esto es en el mejor de los casos,  pero para todo esto se ha perdido ya aproximadamente 4 dias laborales, el cambio no esta listo, la pagina sigue con errores y tenemos clientes disgustados.
+Esto es en el mejor de los casos,  pero para todo esto se ha perdido ya aproximadamente 4 dias laborales, el cambio no esta listo, la pagina sigue con errores y tenemos clientes disgustados que prefieren irse a otra plataforma.
+
+
+
+{% hint style="info" %}
+Cualqiuer parecido a la realidad es pura coincidencia.
+{% endhint %}
 
 {% hint style="warning" %}
 **produccion**: Nadie tiene su ambiente de produccion libre para que alguien haga algun cambio sin los permisos adecuados ¿ verdad? 

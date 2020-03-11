@@ -1,4 +1,4 @@
-# CD Topics
+# CD Syllabus
 
 
 
@@ -12,6 +12,7 @@
 4. Deployment Strategies
 5. Herramientas para CD
 6. Mejor practicas para CD 
+7. Configuration Management
 {% endtab %}
 {% endtabs %}
 
