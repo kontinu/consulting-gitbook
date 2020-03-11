@@ -7,7 +7,7 @@ description: >-
 
 # Devops - Hypothetic Case
 
-💡**Supongamos el siguiente caso hipotetico:**
+## Problem Description
 
 Usted es encargado de una pagina web donde se venden algunos productos, millones de usuarios lo visitan al dia. 
 
