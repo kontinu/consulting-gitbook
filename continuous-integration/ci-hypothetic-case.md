@@ -32,7 +32,13 @@ El desarrollador integra su nuevo cambio `[Mie 4:25 pm]` creyendo que este soluc
 4. `[Jue 9:00 am]` se envia el OK al equipo de liderazgo
 5. `[Jue 12:30 pm]` el equipo de liderazgo da el ok via correo electronico, tarda 3.5 hr debido a que se encontraban en una reunion muy importante desde las 9:00 am.
 6. `[Jue 2:30 pm]` despues de la hora de almuerzo el equipo de liderazgo vuelve a mandar el correo electronico al equipo de IT/SysAdmin/Ops 
-7. \[Jue 4:45 pm
+7. `[Jue 4:45 pm]` el equipo de IT tarda 2 horas con 15 minutos debido a que se encontraban arreglando otro problema con lo\(s\) servidor\(es\) de produccion.
+8. `[Jue 4:55 pm]` el equipo de IT pide via correo el zip con el contenido **. . .**
+9. **. . .** 
+10. **. . .**  esto se contara en otra seccion 
+11. `[Lun 9:00 am]` se percatan que el cambio que se introdujo tenia problemas y que no corrigio el problema por completo por lo tanto se repite exactamente el mismo proceso.
+
+Esto es en el mejor de los casos,  pero para todo esto se ha perdido ya aproximadamente 4 dias laborales, el cambio no esta listo, la pagina sigue con errores y tenemos clientes disgustados.
 
 {% hint style="warning" %}
 **produccion**: Nadie tiene su ambiente de produccion libre para que alguien haga algun cambio sin los permisos adecuados ¿ verdad? 

@@ -6,8 +6,8 @@
 
 * [Devops](devops/devops/README.md)
   * [Devops Syllabus](devops/devops/devops-topics.md)
-  * [Services](devops/devops/services.md)
   * [Devops - Hypothetic Case](devops/devops/devops-hypothetic-case.md)
+  * [Services](devops/devops/services.md)
 * [Continuous Integration](continuous-integration/README.md)
   * [CI - Hypothetic Case](continuous-integration/ci-hypothetic-case.md)
   * [CI Syllabus](continuous-integration/ci-topics.md)

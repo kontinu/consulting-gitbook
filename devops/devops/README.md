@@ -45,13 +45,23 @@ Esta imagen muestra como se integran la fase de metodologias agiles juntamente c
 
 Algunos de los beneficios incluyen \(pero no esta limitados a\):
 
+{% tabs %}
+{% tab title="Technical Level" %}
+* Reduccion Tiempo de Entrega \([lead time](https://en.wikipedia.org/wiki/Lead_time)\)
+* Mejora frecuencia de Releases \(entregas a produccion\)
+* Equipos e individuos mas responsables, es decir con mejor habilidad de respuesta en caso de fallo \([Change failure rate](https://circleci.com/blog/what-does-the-change-fail-rate-tell-us-about-high-performing-teams/)\).
+* Habilidad para **recuperarse pronto  \(**[**MTTR**](https://en.wikipedia.org/wiki/Mean_time_to_recovery)**\)** despues de una interrupcion a los sistemas de produccion. 
+
+> Estas son las [metricas \(kpi\) para medir el avance en Devops ](https://devops.com/metrics-devops/)
+{% endtab %}
+
+{% tab title="Team/Org Level" %}
 * Incremento de confianza departe de nuestros clientes
-* Mejor autoestima laboral
+* Mejor autoestima y ecosistema laboral
 * Mejor colaboracion multi-equipos
-* Entregas de software en intervalos mas cortos
-* incremento en el TTM \([time to market](https://en.wikipedia.org/wiki/Time_to_market)\) 
-* Equipos con mejores habilidades para responder en incidentes
 * Mejor manejo de trabajo no planificado
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 Al final de todo, el desarrollo de software es un arte, es manufactura, por lo tanto podriamos hacer la analogia que **devops es todo el proceso automatizado de la linea de produccion.**

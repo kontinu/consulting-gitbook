@@ -19,17 +19,18 @@ Reportan que en la pagina de inicio hay un error de escritura \(como el de la im
 
 
 
-
-
-
-
-
-
-
-
 **¿ Cuánto tiempo le tomaria a su equipo, con los procesos actuales, arreglar este error ?**
 
-\*\*\*\*
+{% hint style="info" %}
+Segun [DORA](https://devops.com/the-state-of-devops-report-2019-is-out/) \(DevOps Research and Assessment\) las empresas en general les tomaria:
+
+* El 20% entre **1 hora a 1 dia**
+* El 23% entre **1 semana a 1 dia**
+* El 44% entre **1 semana a 1 mes**
+* El 12% entre **1 mes a 6 meses**
+
+> ¿ ****a que grupo perteneceria su empresa?
+{% endhint %}
 
 ## **Code**
 
@@ -51,5 +52,5 @@ Mi página de Productos:
 </ul>
 ```
 
-\*\*\*\*
+> Nada fuera de lo normal verdad?
 
