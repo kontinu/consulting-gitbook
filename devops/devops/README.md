@@ -1,11 +1,18 @@
 ---
 description: >-
-  DevOps  a set of practices that automates the processes between software
-  development and IT teams, in order that they can build, test, and release
-  software faster and more reliably. The concept of D
+  "Devops es la interaccion entre el equipo de Desarrollo (dev) y Operaciones
+  (Ops); se fundamenta en crear una cultura de colaboracion entre estos equipos
+  que usualmente trabajan independientemente"
 ---
 
 # Devops
+
+{% hint style="info" %}
+💡Creemos el siguiente caso hipotetico:  
+
+
+Usted es encargado de una pagina web donde se publican articulos donde millones de usuarios lo visitan al dia.  
+{% endhint %}
 
 ## Introducción
 
@@ -25,6 +32,12 @@ Seguramente hemos visto la imagen que aparece en el encabezado de esta sección,
 
 Esta imagen muestra como se integran la fase de metodologias agiles juntamente con CI/CD forman  **una linea de produccion de entrega de software** mas compleja, cada una de las fases es importante y el resultado de uno es la entrada del siguiente proceso. Hablar de Devops requiere conocimiento tecnico pero no esta limitado a este; tambien Devops involucra otros equipos/departamentos para 
 
+{% hint style="warning" %}
+* Devops no es solamente aplicar alguna metodologia tecnica nuestro trabajo actual
+* Devops tampoco es crear un nuevo departamento en nuestra organizacion
+* D
+{% endhint %}
+
 
 
 ## Benefits
@@ -38,14 +51,12 @@ Algunos de los beneficios incluyen \(pero no esta limitados a\):
 * Incremento de confianza departe de nuestros clientes
 * Mejor autoestima laboral
 * Mejor colaboracion multi-equipos
-* Enregas de software en intervalos mas cortos
+* Entregas de software en intervalos mas cortos
 * incremento en el TTM \([time to market](https://en.wikipedia.org/wiki/Time_to_market)\) 
-* Equipos con habilidad mas 
-
-ncreased trust, faster software releases, ability to solve critical issues quickly, and better manage unplanned work.
-
-{% hint style="danger" %}
-* Devops no es solamente aplicar alguna metodologia tecnica nuestro trabajo actual
+* Equipos con mejores habilidades para responder en incidentes
+* Mejor manejo de trabajo no planificado
 * 
+{% hint style="info" %}
+Al final de todo, el desarrollo de software es un arte, es manufactura, por lo tanto podriamos hacer la analogia que **devops es todo el proceso automatizado de la linea de produccion.**
 {% endhint %}
 
