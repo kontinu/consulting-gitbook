@@ -5,10 +5,12 @@
 ## Devops
 
 * [Devops](devops/devops/README.md)
-  * [Devops Topics](devops/devops/devops-topics.md)
+  * [Devops Syllabus](devops/devops/devops-topics.md)
   * [Services](devops/devops/services.md)
+  * [Devops - Hypothetic Case](devops/devops/devops-hypothetic-case.md)
 * [Continuous Integration](continuous-integration/README.md)
-  * [CI Topics](continuous-integration/ci-topics.md)
+  * [CI - Hypothetic Case](continuous-integration/ci-hypothetic-case.md)
+  * [CI Syllabus](continuous-integration/ci-topics.md)
 * [Continuous Delivery](continuous-delivery/README.md)
   * [CD Topics](continuous-delivery/cd-topics.md)
 

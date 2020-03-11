@@ -21,17 +21,7 @@ Seguramente hemos visto la imagen que aparece en el encabezado de esta sección,
 _"En su esencia DevOps es una cultura, un movimiento, una filosofia." - Atlasian_
 {% endhint %}
 
-"
 
-## Hypothetic Case
-
-![Web Page con typo](../../.gitbook/assets/screen-shot-2020-03-10-at-7.32.09-pm.png)
-
-### 💡Creemos el siguiente caso hipotetico:
-
-Usted es encargado de una pagina web donde se publican articulos, millones de usuarios lo visitan al dia. Reportan que en la pagina de inicio hay un error de escritura \(como el de la imagen de arriba\)
-
-**¿ Cuánto tiempo le tomaria a su equipo, con los procesos actuales, arreglar este error ?**
 
 ##  CI/CD & Devops
 

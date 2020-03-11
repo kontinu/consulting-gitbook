@@ -1,25 +1,28 @@
 ---
 description: >-
-  Actualmente Devops Lead en una empresa distribuida , me especializo en dirigir
-  las deciciones que i
+  Actualmente Devops Lead en una empresa distribuida, me especializo en dirigir
+  las decisiones que involucren automatizacion, cloud, contenedores,
+  arquitectura, devops, etc.
 ---
 
 # About
 
-* Lider de la comunidad Docker Guatemala.
-* * Primer programa a los 12 â. 
-* Sys admin a los 2011 
+![Docker Guatemala Meetup](../.gitbook/assets/img_1401-2.JPG)
+
+* Lider de la comunidad Docker Guatemala  🇬🇹
+* Actualmente Senior Devops en [mobi](https://www.mobicorp.com/company) una empresa de [geotab](https://www.geotab.com/)
+* Primer programa a los 12 â. 
+* Sys admin desde 2011 
 * Release engineering manager 
 * Platform Engineer
 * Scrum Master
-* Lucky to contribute in some open source projects.
-* Love/Need coffee.
+* He contribuido felizmente en algunos projectos open source.
+* Amo cafe.
 * Sys admin que le encanta programar `</>`
 * DCA \(Docker Certified Associate\)
-
-
-
-
+* Arquitecto Cloud
+* AWS experienced user
+* GCP experienced user
 
 
 
