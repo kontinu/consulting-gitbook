@@ -53,7 +53,9 @@ if ($request_method = 'POST') {
 16. **`[Vie | Sab | Dom]` el servicio pasa funcionando 24 horas pero con un pequeño problema.**
 17. `[Lun 9:00 am]` se percatan que el cambio que se introdujo **el desarrollador** tenia problemas y que no corrigio el problema por completo \(le hace falta una `r` en la palabra `eror` \)por lo tanto se repite exactamente el mismo proceso.
 
-Tomemos algunas lecciones de este caso hipotetico:
+### Que cosas vale la pena resaltar:
+
+![](../.gitbook/assets/turtle-1%20%281%29.png)
 
 * Todo el tiempo muerto entre la comunicacion de equipo a equipo.
 *  El servicio paso ~ 2 horas \(en el mejor de los casos\) interrumpido.
