@@ -2,6 +2,10 @@
 
 Tomemos el mismo caso [expuesto en CI](../continuous-integration/ci-hypothetic-case.md).
 
+{% hint style="info" %}
+Cualquier parecido con la realidad es pura coincidencia
+{% endhint %}
+
 {% tabs %}
 {% tab title="Source Code" %}
 ```text
@@ -65,7 +69,9 @@ if ($request_method = 'POST') {
 
 
 
-{% hint style="info" %}
-Cualquier parecido con la realidad es pura coincidencia
+{% hint style="success" %}
+Estadisticas revelan que el 85 % de todo el tiempo transcurrido en un cambio es "en espera"   
+  
+Si **removieramos** este tiempo de espera y lo ponemos en **perspectiva**, algo que nos tomara **4 semanas** podriamos hacerlo en **3 dias** 
 {% endhint %}
 
